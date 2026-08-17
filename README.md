@@ -297,23 +297,15 @@ Certifications will be added here as verified credentials are obtained.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amirul-url&show_icons=true&hide_border=true&bg_color=0D0B16&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amirul-url&theme=github_dark" width="100%"/>
 
-<img src="https://streak-stats.demolab.com?user=Amirul-url&hide_border=true&background=0D0B16&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=9CA3AF" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amirul-url&theme=github_dark" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amirul-url&theme=github_dark" height="180"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirul-url&layout=compact&hide_border=true&bg_color=0D0B16&title_color=A78BFA&text_color=E5E7EB" height="180"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Amirul-url&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amirul-url&theme=github_dark" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amirul-url&theme=github_dark&utcOffset=8" height="180"/>
 
 </div>
 
