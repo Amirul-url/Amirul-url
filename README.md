@@ -260,7 +260,8 @@ Designed and sold creative PowerPoint templates for students and professionals w
 
 | Recognition                                       | Details                                                                          |
 | ------------------------------------------------- | -------------------------------------------------------------------------------- |
-| **Dean's List**                                   | Recognised for outstanding academic performance with PNGS 3.56                   |
+| **Dean's List [2- 2023/2024]**                    | Recognised for outstanding academic performance with PNGS 3.56                   |
+| **Dean's List [1- 2025/2026]**                    | Recognised for outstanding academic performance with PNGS 3.73                   |
 | **3rd Place — Sarawak English Drama Competition** | Achieved third place as part of a group in a statewide English drama competition |
 
 </div>
